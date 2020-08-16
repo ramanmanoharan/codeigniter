@@ -1,0 +1,1 @@
+<center><h1>New View from Codeigniter</h1></center>
